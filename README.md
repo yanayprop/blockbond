@@ -10,9 +10,8 @@ As a B2B SaaS platform, our marketing efforts target crypto networks and dapps. 
 
 ## Our Work
 Some things we try to manifest in our day-to-day:
-- Biase for action
+- Bias for action
 - Sense of urgency - favor speed over conviction
-- [Think from zero](https://medium.com/future-literacy/zeroth-principles-thinking-9376d0b7e7f5)
 - Focus on our customers' success as a core driver of our marketing strategy (_"the best way to build a brand is to get more customers"_)
 - Not be afraid to ask dumb questions
 - Ask for forgiveness, not permission
