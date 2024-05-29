@@ -1,9 +1,9 @@
 # Blockbond
-Blockbond is an AI powered, one-click block explorer generator to enrich and simplify the exploration of all onchain data. Our product is 'Explorer-as-a-service', designed to create a compatible block explorer for every blockchain.
+Blockbond is an AI-powered block explorer generator to enrich and simplify the exploration of all onchain data. Our product is 'Explorer-as-a-service', designed to create a compatible block explorer for every blockchain.
 Our product is built for a multichain world, supporting interchain interactions, and allowing new chains to plug into existing data streams from a modular stack. Some of our existing clients include leading L1 and L2 chains like Polygon, Scroll, Base, Aztec, Optimism, Arbitrum, Celestia, and others.
 
 ## Product
-Our product provides the infrastructure to create block explorers from scratch, combining a data pipeline and an AI application that handles data integration for a new chain. Blockbond guarantees the fastest integration time in the industry, and best in class data latency, ensuring our clients and their users have a seamless experience.
+Our product provides the infrastructure to create block explorers from scratch, combining a data pipeline and an AI application that handles data integration for a new chain. Blockbond guarantees the fastest integration time in the industry, and best-in-class data latency, ensuring our clients and their users have a seamless experience.
 
 ### Our Market
 We are a B2B SaaS platform currently serving crypto networks and dapps. Blockbond is aligned with its clients' growth - it's in our best interest to see their platforms flourish.
